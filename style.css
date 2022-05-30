@@ -1,31 +1,31 @@
 .head {
-     text-align: center;
-     background-color: #eee;
-     padding: 15px;
+  text-align: center;
+  background-color: #eee;
+  padding: 15px;
 }
 
 .images {
-     text-align: center;
-     background-color: white;
+  text-align: center;
+  background-color: white;
 }
 
 .heading {
-     text-align: center;
+  text-align: center;
 }
 
 ul {
-     max-width: 550px;
-     margin: 0 auto 50px auto;
-     text-align: left;
-     line-height: 1.6;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
 }
 
 .main {
-     padding-bottom: 10px;
-     margin-bottom: 20px;
-     background-color: #eee;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  background-color: #eee;
 }
 
 .footer {
-     text-align: center;
+  text-align: center;
 }
