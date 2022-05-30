@@ -1,6 +1,5 @@
 .head {
   text-align: center;
-  background-color: #eee;
   padding: 15px;
 }
 
@@ -20,12 +19,21 @@ ul {
   line-height: 1.6;
 }
 
+ul li {
+   padding-top:10px;
+}
+
 .main {
   padding-bottom: 10px;
   margin-bottom: 20px;
   background-color: #eee;
+  border-radius:8px;
 }
 
 .footer {
   text-align: center;
+}
+
+figcaption {
+   padding:10px 10px 10px 10px;
 }
