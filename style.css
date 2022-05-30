@@ -1,6 +1,6 @@
 .head {
    text-align: center;
-   background-color: #eeeeee;
+   background-color: #eee;
    padding: 15px;
 }
 
@@ -23,7 +23,7 @@ ul {
 .main {
    padding-bottom: 10px;
    margin-bottom: 20px;
-   background-color: #eeeeee;
+   background-color: #eee;
 }
 
 .footer {
