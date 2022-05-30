@@ -20,14 +20,14 @@ ul {
 }
 
 ul li {
-   padding-top:10px;
+  padding-top: 10px;
 }
 
 .main {
   padding-bottom: 10px;
   margin-bottom: 20px;
   background-color: #eee;
-  border-radius:8px;
+  border-radius: 8px;
 }
 
 .footer {
@@ -35,5 +35,5 @@ ul li {
 }
 
 figcaption {
-   padding:10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
 }
