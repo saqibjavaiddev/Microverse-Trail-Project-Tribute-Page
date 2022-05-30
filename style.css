@@ -37,3 +37,7 @@ ul li {
 figcaption {
   padding: 10px 10px 10px 10px;
 }
+
+.images img {
+  width: 90%;
+}
